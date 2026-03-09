@@ -1,4 +1,4 @@
-# Neural-Networks | UFES-2026/2 | CNN's Lung-Disease
+# Neural-Networks | UFES-2025/2 | CNN's Lung-Disease
 
 # Lung Disease Classification with Convolutional Neural Networks
 
